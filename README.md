@@ -1797,4 +1797,4 @@ Right now it solves the problem of finding the lane lines in the project video a
 I think this method isn't robust enough to deal with heavy shadows and probably won't work at all during the night, snow, or heavy rain.
 
 Here is a look at the video.
-<iframe width="560" height="315" src="https://www.youtube.com/embed/S9oqhbqD0Yk" frameborder="0" allowfullscreen></iframe>
+[![Perspective Transform & Convolution lane finding](https://img.youtube.com/vi/S9oqhbqD0Yk/0.jpg)](https://www.youtube.com/watch?v=S9oqhbqD0Yk)
